@@ -214,7 +214,6 @@ malm@cin.ufpe.br
 The methodological documents used to describe and verify the experiments are available in the `docs/` folder:
 
 ```text
-docs/metodologia_reprodutivel_modelo_cterns_pt_v2.pdf
 docs/metodologia_reprodutivel_mecanismo_vnfs_v2.pdf
 ```
 
