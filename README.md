@@ -113,8 +113,7 @@ vnf-slice-energy-reconfiguration-simulator/
 ├── models.py
 ├── catalog.py
 ├── docs/
-│   ├── metodologia_reprodutivel_modelo_cterns_pt_v2.pdf
-│   └── metodologia_reprodutivel_mecanismo_vnfs_v2.pdf
+│   ├── metodologia_reprodutivel_mecanismo_vnfs_v2.pdf
 └── results/
     └── README.md
 ```
